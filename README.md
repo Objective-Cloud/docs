@@ -1,4 +1,8 @@
-docs
-====
+This is the documentation for Objective-Cloud. More documentation will be added soon.
 
-Documentation for Objective-Cloud
+* [Tutorial](https://github.com/Objective-Cloud/docs/wiki/Tutorial): Describes the basics of Objective-Cloud
+* [Video Tutorial](https://vimeo.com/user15251687/review/67569126/b6b0908dc3): Shows you the basics of Objective-Cloud
+* [Demos and Use Cases](https://github.com/Objective-Cloud/docs/wiki/Demos-and-Use-Cases): If you don't know what Objective-Cloud is for read this!
+
+# Questions? 
+If you have questions feel free to [send us an email](mailto:team@objective-cloud.com).
